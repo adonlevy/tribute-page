@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    color: darkblue;
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+#img-div {
+    text-align: center;
+}
+#main {
+    background: lightgrey;
+    border-radius: 0.5%;
+}
+
+#tribute-info {
+    text-align: center;
+    word-wrap: break-word;
+    width: 500px;
+}
