@@ -1,2 +1,2 @@
 # tribute-page
-Learning responsive web design basis
+Learning responsive web design basis. 
