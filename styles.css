@@ -8,11 +8,19 @@ h2{
 }
 
 #image {
+    width: 600px;
     max-width: 100%;
     height: auto;
+    padding: 20px 0px 20px 0px;
+    align-content: center;
 }
 #img-div {
     text-align: center;
+    background-color: white;
+}
+
+#img-caption {
+padding-bottom: 30px;
 }
 #main {
     background: lightgrey;
@@ -20,7 +28,7 @@ h2{
 }
 
 #tribute-info {
-    text-align: center;
+   
     word-wrap: break-word;
-    width: 500px;
+    
 }
